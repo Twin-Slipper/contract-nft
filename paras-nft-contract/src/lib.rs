@@ -445,7 +445,7 @@ impl Contract {
                 total_perpetual += *v;
                 total_accounts += 1;
             }
-            royalty
+            royalty 
         } else {
             HashMap::new()
         };
